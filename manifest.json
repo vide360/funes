@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "name": "FUNES",
- "display": "fullscreen",
- "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "start_url": "index.htm",
- "background_color": "#FFFFFF"
+ "display": "fullscreen",
+ "name": "FUNES",
+ "theme_color": "#FFFFFF"
 }
